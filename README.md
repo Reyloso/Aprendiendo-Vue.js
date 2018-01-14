@@ -14,5 +14,5 @@ npm run dev
 # build for production with minification
 npm run build
 
-github(https://github.com/Reyloso)
-twiiter(https://twitter.com/Reyloso)
+[Github](https://github.com/Reyloso).
+[Twitter](https://twitter.com/Reyloso).
